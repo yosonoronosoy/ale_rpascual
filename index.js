@@ -6,5 +6,9 @@ const clearConsole = require('clear-any-console');
 clearConsole();
 
 console.log(`
+#####
+
 Alejandro Rodriguez - Software Engineer
+
+#####
 `);
