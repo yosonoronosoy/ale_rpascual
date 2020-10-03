@@ -1,6 +1,6 @@
 {
 	"name": "ale_rpascual",
-	"version": "2.0.2",
+	"version": "2.0.3",
 	"bin": {
 		"alex": "index.js"
 	},
