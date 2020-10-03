@@ -18,8 +18,11 @@
 		"alerpascual",
 		"alejandro rodriguez pascual"
 	],
-	"author": "",
-	"license": "ISC",
+	"author": {
+		"name": "Alejandro Rodriguez",
+		"email": "alerpascual@gmail.com"
+	},
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/yosonoronosoy/ale_rpascual/issues"
 	},

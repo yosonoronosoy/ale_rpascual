@@ -4,8 +4,7 @@
 
 ## Usage
 
-To use this CLI run the following command
-``
+To use this CLI run the following command:
 
 ```
 npx ale_rpascual
