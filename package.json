@@ -13,7 +13,11 @@
 		"type": "git",
 		"url": "git+https://github.com/yosonoronosoy/ale_rpascual.git"
 	},
-	"keywords": [],
+	"keywords": [
+		"alejandro rodriguez",
+		"alerpascual",
+		"alejandro rodriguez pascual"
+	],
 	"author": "",
 	"license": "ISC",
 	"bugs": {
